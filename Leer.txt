@@ -1,3 +1,0 @@
-La contraseña de los usuarios por defecto es "admin"
-Cuando se carga un csv se crea un usuario "admin" con contraseña "admin"
-Los .jar que pide el programa están en una carpeta dentro de Proyecto_3_Disenno
